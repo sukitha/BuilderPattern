@@ -9,11 +9,9 @@ namespace Email
         protected Email email;
         protected AbstractEmailBuilder() {
         }
-
         public static implicit operator Email(AbstractEmailBuilder builder) => builder.email;
-
-        public EmailHeaderBuilder Header() => new EmailHeaderBuilder(email);
-        public EmailBodyBuilder Body() => new EmailBodyBuilder(email);
+        public EmailHeaderBuilder Header => new EmailHeaderBuilder(email);
+        public EmailBodyBuilder Body => new EmailBodyBuilder(email);
         
     }
 }
