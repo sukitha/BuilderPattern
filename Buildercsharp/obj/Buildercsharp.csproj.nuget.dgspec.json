@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learn\\Source\\DesignPatterns\\Patterns\\builder\\Buildercsharp\\Buildercsharp\\Buildercsharp.csproj": {}
+    "D:\\Learn\\Source\\DesignPatterns\\Patterns\\builder\\BulderPattern\\Buildercsharp\\Buildercsharp.csproj": {}
   },
   "projects": {
-    "D:\\Learn\\Source\\DesignPatterns\\Patterns\\builder\\Buildercsharp\\Buildercsharp\\Buildercsharp.csproj": {
+    "D:\\Learn\\Source\\DesignPatterns\\Patterns\\builder\\BulderPattern\\Buildercsharp\\Buildercsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learn\\Source\\DesignPatterns\\Patterns\\builder\\Buildercsharp\\Buildercsharp\\Buildercsharp.csproj",
+        "projectUniqueName": "D:\\Learn\\Source\\DesignPatterns\\Patterns\\builder\\BulderPattern\\Buildercsharp\\Buildercsharp.csproj",
         "projectName": "Buildercsharp",
-        "projectPath": "D:\\Learn\\Source\\DesignPatterns\\Patterns\\builder\\Buildercsharp\\Buildercsharp\\Buildercsharp.csproj",
+        "projectPath": "D:\\Learn\\Source\\DesignPatterns\\Patterns\\builder\\BulderPattern\\Buildercsharp\\Buildercsharp.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Learn\\Source\\DesignPatterns\\Patterns\\builder\\Buildercsharp\\Buildercsharp\\obj\\",
+        "outputPath": "D:\\Learn\\Source\\DesignPatterns\\Patterns\\builder\\BulderPattern\\Buildercsharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

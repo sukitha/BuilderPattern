@@ -9,7 +9,7 @@ namespace Buildercsharp
             Email.Email email = Email.Email.Build()
                             .Header()
                                 .From("test1@example.com")
-                                .to("test2.example.com")
+                                .To("test2.example.com")
                                 .Subject("subject.com")
                             .Body()
                                 .Body("This is sample body")

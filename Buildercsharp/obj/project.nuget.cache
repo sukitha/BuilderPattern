@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0MUr9Gji8snwRQIktWhQmRb0ONIGh5TiNk8X3luxybIt4TgOjMw6cJLBRxYYSHtY0B+aQLTd1CbTI1jhTP15QA==",
+  "dgSpecHash": "nCSEeNSPzLlrUY1x48cMnamCWyH+KO+K+Nk/cBiJt4FuZHXss6Fc9UWYO7e4Yka303iNW3tHqyzwTJaTjCxFCg==",
   "success": true,
-  "projectFilePath": "D:\\Learn\\Source\\DesignPatterns\\Patterns\\builder\\Buildercsharp\\Buildercsharp\\Buildercsharp.csproj",
+  "projectFilePath": "D:\\Learn\\Source\\DesignPatterns\\Patterns\\builder\\BulderPattern\\Buildercsharp\\Buildercsharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],

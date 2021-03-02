@@ -14,7 +14,7 @@ namespace Email
             email.from = from;
             return this;
         }
-        internal EmailHeaderBuilder to(string to)
+        internal EmailHeaderBuilder To(string to)
         {
             email.to = to;
             return this;
