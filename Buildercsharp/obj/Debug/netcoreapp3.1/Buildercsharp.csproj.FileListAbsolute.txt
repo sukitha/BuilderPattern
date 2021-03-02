@@ -1,0 +1,13 @@
+D:\Learn\Source\DesignPatterns\Patterns\builder\Buildercsharp\Buildercsharp\bin\Debug\netcoreapp3.1\Buildercsharp.exe
+D:\Learn\Source\DesignPatterns\Patterns\builder\Buildercsharp\Buildercsharp\bin\Debug\netcoreapp3.1\Buildercsharp.deps.json
+D:\Learn\Source\DesignPatterns\Patterns\builder\Buildercsharp\Buildercsharp\bin\Debug\netcoreapp3.1\Buildercsharp.runtimeconfig.json
+D:\Learn\Source\DesignPatterns\Patterns\builder\Buildercsharp\Buildercsharp\bin\Debug\netcoreapp3.1\Buildercsharp.runtimeconfig.dev.json
+D:\Learn\Source\DesignPatterns\Patterns\builder\Buildercsharp\Buildercsharp\bin\Debug\netcoreapp3.1\Buildercsharp.dll
+D:\Learn\Source\DesignPatterns\Patterns\builder\Buildercsharp\Buildercsharp\bin\Debug\netcoreapp3.1\Buildercsharp.pdb
+D:\Learn\Source\DesignPatterns\Patterns\builder\Buildercsharp\Buildercsharp\obj\Debug\netcoreapp3.1\Buildercsharp.csprojAssemblyReference.cache
+D:\Learn\Source\DesignPatterns\Patterns\builder\Buildercsharp\Buildercsharp\obj\Debug\netcoreapp3.1\Buildercsharp.AssemblyInfoInputs.cache
+D:\Learn\Source\DesignPatterns\Patterns\builder\Buildercsharp\Buildercsharp\obj\Debug\netcoreapp3.1\Buildercsharp.AssemblyInfo.cs
+D:\Learn\Source\DesignPatterns\Patterns\builder\Buildercsharp\Buildercsharp\obj\Debug\netcoreapp3.1\Buildercsharp.csproj.CoreCompileInputs.cache
+D:\Learn\Source\DesignPatterns\Patterns\builder\Buildercsharp\Buildercsharp\obj\Debug\netcoreapp3.1\Buildercsharp.dll
+D:\Learn\Source\DesignPatterns\Patterns\builder\Buildercsharp\Buildercsharp\obj\Debug\netcoreapp3.1\Buildercsharp.pdb
+D:\Learn\Source\DesignPatterns\Patterns\builder\Buildercsharp\Buildercsharp\obj\Debug\netcoreapp3.1\Buildercsharp.genruntimeconfig.cache

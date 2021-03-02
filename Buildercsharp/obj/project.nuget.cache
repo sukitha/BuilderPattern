@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0MUr9Gji8snwRQIktWhQmRb0ONIGh5TiNk8X3luxybIt4TgOjMw6cJLBRxYYSHtY0B+aQLTd1CbTI1jhTP15QA==",
+  "success": true,
+  "projectFilePath": "D:\\Learn\\Source\\DesignPatterns\\Patterns\\builder\\Buildercsharp\\Buildercsharp\\Buildercsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
